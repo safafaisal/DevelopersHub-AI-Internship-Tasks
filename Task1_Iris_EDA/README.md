@@ -1,16 +1,16 @@
 
-Task 1: Iris Dataset EDA
+# Task 1: Iris Dataset EDA
 
-.Objective
+## Objective
 Explore and visualize the Iris dataset.
 
-.Steps
+## Steps
 - Loaded dataset using pandas
 - Checked shape, info, and statistics
 - Created scatter plots, histograms, and box plots
 
-.Tools
+## Tools
 Python, Pandas, Matplotlib, Seaborn
 
-.Outcome
+## Outcome
 Understood data distribution and relationships between features.
